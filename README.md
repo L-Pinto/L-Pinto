@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://komarev.com/ghpvc/?username=L-Pinto)
 <!--
 **L-Pinto/L-Pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
