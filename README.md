@@ -1,25 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](https://www.uminho.pt/EN/)    <img height="20" src="https://github.com/L-Pinto/UMinho-LEI/blob/main/UM_tiny_logo.jpg">
 
-## About Me
+### About Me
 <!--
 
 -->
 
-## Likes and Hobbies
+### Likes and Hobbies
 <!--
 
 -->
 
-## University Projects
+### University Projects
 <!--
     Link para projetos de Licenciatura e Mestrado, respectivamente :
   - Acrescentar Link
   - Acrescentar Link
 -->
 
-## Find me
+### Find me
 <!--
   - LinkedIN
   ´+- Email Profissional
@@ -27,7 +27,7 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 -->
 
 
-## Stats and Skills
+### Stats and Skills
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Pinto&count_private=true&show_icons=true&theme=gotham&hide=contribs&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Pinto&layout=compact&hide=roff&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
