@@ -2,10 +2,6 @@
 
 I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](https://www.uminho.pt/EN/)    <img height="20" src="https://github.com/L-Pinto/UMinho-LEI/blob/main/UM_tiny_logo.jpg">
 
-### About Me
-<!--
-
--->
 
 ### Likes and Hobbies
 <!--
