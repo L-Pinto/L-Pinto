@@ -1,7 +1,6 @@
 ### Hi there 👋
-<!--
 
--->
+I'm Luis Pinto, Software Engineering Master's student @ [University of Minho](https://www.uminho.pt/EN/).
 
 ## About Me
 <!--
@@ -15,12 +14,16 @@
 
 ## University Projects
 <!--
-
+    Link para projetos de Licenciatura e Mestrado, respectivamente :
+  - Acrescentar Link
+  - Acrescentar Link
 -->
 
 ## Find me
 <!--
-
+  - LinkedIN
+  ´+- Email Profissional
+  - outro, exemplo : instagram ou site pessoal
 -->
 
 
