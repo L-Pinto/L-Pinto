@@ -34,7 +34,7 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 ## Stats and Skills
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Pinto&count_private=true&show_icons=true&theme=react&hide=contribs&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Pinto&layout=compact&hide=roff&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Pinto&layout=compact&hide=roff&theme=react&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=L-Pinto)
 
