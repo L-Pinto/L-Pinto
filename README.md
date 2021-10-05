@@ -21,7 +21,7 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
     [Here](https://github.com/L-Pinto/UMinho-MEI) are my masters projects.
 -->
 
-### Find me
+### Get in touch
    - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://pt.linkedin.com/)
    - :inbox_tray: [Email](mailto:luismlp.7@gmail.com)
 <!--
