@@ -22,7 +22,7 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 -->
 
 ### Find me
-   - <img height="25" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIN](https://pt.linkedin.com/)
+   - <img height="15" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIN](https://pt.linkedin.com/)
 <!--
   - Email Profissional
   - outro, exemplo : instagram ou site pessoal
