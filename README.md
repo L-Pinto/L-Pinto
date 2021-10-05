@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](https://www.uminho.pt/EN/) :portugal:
+I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](https://www.uminho.pt/EN/).
 
 ## About Me
 <!--
