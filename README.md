@@ -5,7 +5,7 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 
 ### Likes and Hobbies
 
-  :green_book:	Reading
+  :green_book:	Reading                   :test_tube:	Science and Technology :gear:	
   
   :musical_score: Symphony Orchestra
   
