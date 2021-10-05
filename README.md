@@ -15,9 +15,8 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 -->
 
 ### University Projects
-
+   - :man_student: [Here](https://github.com/L-Pinto/UMinho-LEI) you can find projects developed during my bachelor's degree.
 <!--
-    [Here](https://github.com/L-Pinto/UMinho-LEI) you can find projects developed during my bachelor.
     [Here](https://github.com/L-Pinto/UMinho-MEI) are my masters projects.
 -->
 
