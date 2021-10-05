@@ -10,10 +10,11 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
   :musical_score: Symphony Orchestra
   
   :moneybag: Financial Literacy
+  
+  :brain:	Learning new things in general
    
 <!--
 - All things science related
-- Learning new things in general / Curiosity
 -->
 
 ### University Projects
