@@ -5,13 +5,13 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 
 ### Likes and Hobbies
 
+   :blue_book:	Reading
+   :musical_score: Symphony Orchestra
+   :moneybag: Financial Literacy
+   
 <!--
-- Reading
-- Music
-- Sports
 - All things science related
-- Personal Finances
-- Learning new things in general
+- Learning new things in general / Curiosity
 -->
 
 ### University Projects
