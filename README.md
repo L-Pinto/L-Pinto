@@ -4,21 +4,27 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 
 
 ### Likes and Hobbies
-<!--
 
+<!--
+- Reading
+- Music
+- Sports
+- All things science related
+- Personal Finances
+- Learning new things in general
 -->
 
 ### University Projects
+
 <!--
-    Link para projetos de Licenciatura e Mestrado, respectivamente :
-  - Acrescentar Link
-  - Acrescentar Link
+    [Here](https://github.com/L-Pinto/UMinho-LEI) you can find projects developed during my bachelor.
+    [Here](https://github.com/L-Pinto/UMinho-MEI) are my masters projects.
 -->
 
 ### Find me
+   - [LinkedIN](https://pt.linkedin.com/)
 <!--
-  - LinkedIN
-  ´+- Email Profissional
+  - Email Profissional
   - outro, exemplo : instagram ou site pessoal
 -->
 
@@ -27,6 +33,8 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Pinto&count_private=true&show_icons=true&theme=gotham&hide=contribs&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Pinto&layout=compact&hide=roff&theme=gotham&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=L-Pinto)
 
 <!--
 **L-Pinto/L-Pinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,5 +49,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate- 
 - 😄 Pronouns: ...
 -->
-
-![](https://komarev.com/ghpvc/?username=L-Pinto)
