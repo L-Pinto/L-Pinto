@@ -12,10 +12,6 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
   :moneybag: Financial Literacy
   
   :brain:	Learning new things in general
-   
-<!--
-- All things science related
--->
 
 ## University Projects
    :man_student: [Here](https://github.com/L-Pinto/UMinho-LEI) you can find projects developed during my Bachelor's Degree. :man_student:
@@ -34,6 +30,10 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Pinto&count_private=true&show_icons=true&theme=react&hide=contribs&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Pinto&layout=compact&hide=roff&theme=react&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+  Atualizar skills com ferramentas de trabalho / linguagens que uso
+-->
 
 ![](https://komarev.com/ghpvc/?username=L-Pinto)
 
