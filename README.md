@@ -19,7 +19,7 @@ I'm Luis Pinto, a Software Engineering Master's student @ [University of Minho](
    :man_student: [Here](https://github.com/L-Pinto/UMinho-MEI) you can find projects developed during my Master's Degree. :man_student:
 
 ## Get in touch
-   - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/luis-pinto-20b640222/)
+   - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/luis-mlpinto/)
    - :inbox_tray: [Email](mailto:luismlp.7@gmail.com)
 <!--
   - outro, exemplo : instagram ou site pessoal
